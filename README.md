@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=blindbane)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=blindbane)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
